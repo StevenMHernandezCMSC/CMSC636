@@ -1,0 +1,51 @@
+ite= 0 p= 0 net= 1 err= -1 lrn= -30
+weights: 1 1 1 1
+ite= 0 p= 1 net= -28 err= 0 lrn= 0
+weights: 1 1 1 -29
+ite= 0 p= 2 net= -28 err= 0 lrn= 0
+weights: 1 1 1 -29
+ite= 0 p= 3 net= -27 err= 0 lrn= 0
+weights: 1 1 1 -29
+ite= 0 p= 4 net= -28 err= 0 lrn= 0
+weights: 1 1 1 -29
+ite= 0 p= 5 net= -27 err= 1 lrn= 30
+weights: 1 1 1 -29
+ite= 0 p= 6 net= 33 err= -1 lrn= -30
+weights: 31 1 31 1
+ite= 0 p= 7 net= -26 err= 1 lrn= 30
+weights: 1 -29 31 -29
+TE= 4
+ite= 1 p= 0 net= 1 err= -1 lrn= -30
+weights: 31 1 61 1
+ite= 1 p= 1 net= 32 err= -1 lrn= -30
+weights: 31 1 61 -29
+ite= 1 p= 2 net= -58 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 1 p= 3 net= -27 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 1 p= 4 net= -28 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 1 p= 5 net= 3 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 1 p= 6 net= -27 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 1 p= 7 net= 4 err= 0 lrn= 0
+weights: 31 1 31 -59
+TE= 2
+ite= 2 p= 0 net= -59 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 1 net= -28 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 2 net= -58 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 3 net= -27 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 4 net= -28 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 5 net= 3 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 6 net= -27 err= 0 lrn= 0
+weights: 31 1 31 -59
+ite= 2 p= 7 net= 4 err= 0 lrn= 0
+weights: 31 1 31 -59
+TE= 0

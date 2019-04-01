@@ -1,0 +1,51 @@
+ite= 0 p= 0 net= 1 err= -0.881 lrn= -26.424
+weights: 1 1 1 1
+ite= 0 p= 1 net= -24.42 err= -0.0 lrn= -0.0
+weights: 1.0 1.0 1.0 -25.42
+ite= 0 p= 2 net= -24.42 err= -0.0 lrn= -0.0
+weights: 1.0 1.0 1.0 -25.42
+ite= 0 p= 3 net= -23.42 err= -0.0 lrn= -0.0
+weights: 1.0 1.0 1.0 -25.42
+ite= 0 p= 4 net= -24.42 err= -0.0 lrn= -0.0
+weights: 1.0 1.0 1.0 -25.42
+ite= 0 p= 5 net= -23.42 err= 1.0 lrn= 30.0
+weights: 1.0 1.0 1.0 -25.42
+ite= 0 p= 6 net= 36.58 err= -1.0 lrn= -30.0
+weights: 31.0 1.0 31.0 4.58
+ite= 0 p= 7 net= -22.42 err= 1.0 lrn= 30.0
+weights: 1.0 -29.0 31.0 -25.42
+TE= 3.775803
+ite= 1 p= 0 net= 4.58 err= -1.0 lrn= -29.997
+weights: 31.0 1.0 61.0 4.58
+ite= 1 p= 1 net= 35.58 err= -1.0 lrn= -30.0
+weights: 31.0 1.0 61.0 -25.42
+ite= 1 p= 2 net= -54.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 1 p= 3 net= -23.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 1 p= 4 net= -24.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 1 p= 5 net= 6.58 err= 0.0 lrn= 0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 1 p= 6 net= -23.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 1 p= 7 net= 7.58 err= 0.0 lrn= 0.0
+weights: 31.0 1.0 31.0 -55.42
+TE= 1.999788
+ite= 2 p= 0 net= -55.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 1 net= -24.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 2 net= -54.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 3 net= -23.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 4 net= -24.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 5 net= 6.58 err= 0.0 lrn= 0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 6 net= -23.42 err= -0.0 lrn= -0.0
+weights: 31.0 1.0 31.0 -55.42
+ite= 2 p= 7 net= 7.58 err= 0.0 lrn= 0.0
+weights: 31.0 1.0 31.0 -55.42
+TE= 0.0
