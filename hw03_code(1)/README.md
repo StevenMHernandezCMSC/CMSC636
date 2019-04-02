@@ -1,0 +1,1 @@
+Run jupyter notebook simply with `jupyter notebook`
